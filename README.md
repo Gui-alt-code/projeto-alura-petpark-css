@@ -26,5 +26,9 @@ Este projeto consiste na estilização da página web do PetPark, utilizando CSS
 O projeto pode ser hospedado em plataformas como:
 
 💡 Vercel: Outra opção popular para hospedagem de projetos front-end.
+ 
+🔎 Link do projeto no Vercel: https://projeto-alura-petpark-css.vercel.app/ 
 
 💡 GitHub Pages: Ideal para projetos que não necessitam de backend.
+
+🔎 Link do projeto no GitHub Pages: https://gui-alt-code.github.io/projeto-alura-petpark-css/
