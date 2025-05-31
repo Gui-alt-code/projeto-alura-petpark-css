@@ -1,46 +1,30 @@
-![PetPark](thumb.png)
+# projeto-alura-petpark
 
-# Pet Park
+# Descrição do Projeto: 👀
+Este projeto consiste na estilização da página web do PetPark, utilizando CSS para criar um layout atraente e responsivo. O foco principal foi explorar e aplicar seleções CSS e variáveis ​​para melhorar o código e facilitar a manutenção.
 
-Conheça o PetPark: o destino ideal para os cuidados do seu pet! Oferecemos serviços completos, desde banho e tosa até adestramento, com profissionais dedicados ao bem-estar dos animais. Em breve, traremos novidades imperdíveis para tornar sua experiência ainda melhor!
+# Ferramentas Utilizadas:❗
 
-![Imagem da aplicação da Pet park](petpark.png)
+🎯 HTML5: Para a estrutura do conteúdo da página.
 
-## 🔨 Funcionalidades do projeto
+🎯 CSS3: Para estilização e layout, com ênfase em seletores e variáveis.
 
-Neste estágio de desenvolvimento, o site possui as seguintes funcionalidades:
+🎯 GitHub Pages: Para hospedar e disponibilizar o projeto online.
 
-- Página estática com os principais planos, ofertas, serviços e parceitos
+# Funcionalidades: 
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/design/nN4dJfqtIAFmY2TpC4Vwx8/Petpark-%7C-CSS-seletores-avan%C3%A7ados?node-id=127-2472&t=d5Qjt4b46aSi76KF-0).
+🔧 Estilização completa da página inicial do PetPark.
 
-## ✔️ Técnicas e tecnologias utilizadas
+🔧 Utilização de seletores CSS para aplicar estilos de forma eficiente.
 
-O projeto utiliza as seguintes tecnologias e bibliotecas:
+🔧 Implementação de variáveis ​​CSS para núcleos, fontes e outros valores reutilizáveis.
 
-- `HTML` - Para estrutura e marcação dos elementos da página
-- `CSS` - Para criação de folhas de estilo em cascata
-- `Figma` - Para prototipagem do projeto
+🔧 Layout responsivo que se adapta a diferentes tamanhos de tela.
 
-E muito mais...
+# Implantar: ☀️
 
-## 🛠️ Abrir e rodar o projeto
+O projeto pode ser hospedado em plataformas como:
 
-Para executar o projeto em seu ambiente local, siga estas etapas:
+💡 Vercel: Outra opção popular para hospedagem de projetos front-end.
 
-1. Baixe o repositório do projeto.
-
-1. Extraia os arquivos para uma pasta de sua preferência.
-
-4. Navegue até a pasta em questão
-
-5. Abra o arquivo index.html no seu navegador, iniciando assim o projeto localmente
-
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais?
-
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/design/nN4dJfqtIAFmY2TpC4Vwx8/Petpark-%7C-CSS-seletores-avan%C3%A7ados?node-id=127-2472&t=d5Qjt4b46aSi76KF-0). 
-
-Aproveite o desenvolvimento e aprimoramento do site do Pet park!
+💡 GitHub Pages: Ideal para projetos que não necessitam de backend.
