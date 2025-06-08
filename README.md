@@ -11,6 +11,8 @@ Este projeto consiste na estilização da página web do PetPark, utilizando CSS
 
 🎯 GitHub Pages: Para hospedar e disponibilizar o projeto online.
 
+🎯 Vercel: Outro site de hospedagem para colocar o projeto no ar de forma rápida e automática, com foco em alta performance e na facilidade para desenvolvedores.
+
 # Funcionalidades: 
 
 🔧 Estilização completa da página inicial do PetPark.
